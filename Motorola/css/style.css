@@ -1,0 +1,29 @@
+/* reset */
+
+
+*{  margin:0;
+padding: 0;
+box-sizing: border-box;}
+
+
+
+
+.conteudo-principal{display: flex;
+    align-items: center;
+    width: 1180px;
+    height: 650px;
+    background-color: rgb(161, 68, 68);
+    border-radius: 8%;
+    justify-content: center;
+   margin: auto;
+   margin-top: 8%;
+}
+
+
+
+.conteudo-principal__direito--titulo{
+    
+}
+
+
+.conteudo-principal

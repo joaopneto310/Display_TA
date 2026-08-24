@@ -4,7 +4,7 @@
 MARGIN: 0 ;
 padding: 0 ;
 box-sizing: border-box;
-font-family: ve;
+font-family:'Times New Roman', Times, serif;
 }
 .container{
     width: 300px;
