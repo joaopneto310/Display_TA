@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+
+html{
+                                                /* Ativa a rolagem suave nativa para links âncoras */
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+    
+}
