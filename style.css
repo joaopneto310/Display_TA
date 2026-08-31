@@ -6,6 +6,13 @@ padding: 0 ;
 box-sizing: border-box;
 font-family:'Times New Roman', Times, serif;
 }
+:root{
+    --saude: #"cornflowerblue"
+    --fonte-padrao: Impact, snas-serif;
+    --bg-logo: #000;
+    --cor-fonte-logo: #fff;
+    
+}
 .container{
     width: 300px;
     height: 300px;
