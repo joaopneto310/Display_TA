@@ -109,3 +109,13 @@
 .color-section__bar--cmyk-5{background-color: var(--color-cmyk-5);}
 .color-section__bar--cmyk-6{background-color: var(--color-cmyk-6);}
 
+
+.color-section__bar--netflix-1{background-color: var(--ui-cor-netflix-pri);}
+.color-section__bar--netflix-2{background-color: var(--ui-cor-netflix-seg);}
+.color-section__bar--netflix-3{background-color: var(--ui-cor-netflix-terc);}
+
+
+.color-section__bar--Google-1{background-color: var(--ui-cor-google-pri);}
+.color-section__bar--Google-2{background-color: var(--ui-cor-google-seg);}
+.color-section__bar--Google-3{background-color: var(--ui-cor-google-terc);}
+.color-section__bar--Google-4{background-color: var(--ui-cor-google-quart);}
