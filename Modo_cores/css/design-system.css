@@ -41,5 +41,21 @@
     --color-cmyk-5: #03e6e6; 
     --color-cmyk-6: #d900d9; 
     /* Google */
-    --color-cmyk-7; #4285F4
+    --color-cmyk-7: #4285F4;
+
+
+    /*paleta divertidamente */
+    --ui-cor-divertidamente-pri:#e63900;
+    --ui-cor-divertidamente-seg:#eb8014;
+    --ui-cor-divertidamente-terc:#29a329;
+    --ui-cor-divertidamenre-meio: #ffd633;
+    --ui-cor-divertidamente-quart:#33ffbb;
+    --ui-cor-divertidamente-quint :#008ae6;
+    --ui-cor-divertidamente-sext:#2929a3;
+    --ui-cor-divertidamente-set:#a64dff;
+    --ui-cor-divertidamente-otv:#ff99ff;
+    --ui-cor-divertidamente-dec:#fff2e6;
+
+
+
 }
