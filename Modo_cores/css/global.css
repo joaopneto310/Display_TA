@@ -1,5 +1,6 @@
 @import url(./reset.css);
 @import url(./design-system.css);
+@import url(./colors_bat\ .css);
 
 
 
@@ -95,6 +96,8 @@
 
 
 
+
+
 .color-section__bar--rgb-1{background-color: var(--color-rgb-1);}
 .color-section__bar--rgb-2{background-color: var(--color-rgb-2);}
 .color-section__bar--rgb-4{background-color: var(--color-rgb-4);}
@@ -115,10 +118,10 @@
 .color-section__bar--netflix-3{background-color: var(--ui-cor-netflix-terc);}
 
 
-.color-section__bar--Google-1{background-color: var(--ui-cor-google-pri);}
-.color-section__bar--Google-2{background-color: var(--ui-cor-google-seg);}
+.color-section__bar--Google-1{background-color: var(--ui-cor-google-seg);}
+.color-section__bar--Google-2{background-color: var(--ui-cor-google-quart);}
 .color-section__bar--Google-3{background-color: var(--ui-cor-google-terc);}
-.color-section__bar--Google-4{background-color: var(--ui-cor-google-quart);}
+.color-section__bar--Google-4{background-color: var(--ui-cor-google-pri);}
 
 
 .color-section__bar--divertidamente-1{background-color: var(--ui-cor-divertidamente-pri);}

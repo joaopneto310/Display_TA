@@ -95,12 +95,54 @@ font-family:'Times New Roman', Times, serif;
     text-align: center;
     padding-left: 25px;
 }
+
+
+.faq{
+    width: 100%;
+    border: 2px solid;
+    margin-left: 25px;
+   }
+
+
+
+
+
+
+.faq details{
+    background-color:aqua;
+    color: #fff;
+    line-height: 35px;
+    padding: 10px 20px;
+
+}
+
+
+
+.faq summary{
+    background: #42c3d5;
+    border-radius: 12px;
+    list-style: none;
+    padding-left: 15PX;
+}
+
+.faq summary:hover{
+    cursor:pointer;
+}
+
+
+.faq p{
+    color: darkblue;
+    line-height: 12px;
+}
+
 .item-lista{
     line-height: 30px;
     margin-top: 15px;
    color: rgb(245, 245, 245);
    
 }
+
+
 
 .sectio02{
     line-height: 15px;
